@@ -16,13 +16,6 @@ This project provides a comprehensive automated testing solution for **SwiftTran
 - [Running the Tests](#running-the-tests)
 - [Project Structure](#project-structure)
 - [Test Case Summary](#test-case-summary)
-- [Testing Environment](#testing-environment)
-- [Configuration](#configuration)
-- [Reporting](#reporting)
-- [Troubleshooting](#troubleshooting)
-- [Contributing](#contributing)
-- [License](#license)
-- [Author](#author)
 
 ---
 
